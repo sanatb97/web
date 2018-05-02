@@ -1,5 +1,5 @@
 # Buzz Games!
-<h3>Online Gaming and Review Website.</h3><br><br>
+<h3>Online Gaming and Review Website</h3>
 
 
 <h4>Technologies used:
